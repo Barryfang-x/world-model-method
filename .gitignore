@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# 不要把大文件/原始素材推上来（版权 + 体积）
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.bin
