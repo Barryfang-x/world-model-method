@@ -22,8 +22,8 @@ SOFTWARE.
 
 ---
 
-Note: The intellectual framework synthesized in this skill is based on publicly
-expressed views of researchers including Yann LeCun, Richard Sutton, and
-François Chollet. Those ideas remain the intellectual property of their
-respective authors. This project does not reproduce any third-party platform's
-original video or article content.
+Note: This skill operationalizes ideas from Yann LeCun's "A Path Towards
+Autonomous Machine Intelligence" (2022) and the world-model / JEPA line of
+research as a prompt-level working method. Those ideas remain the intellectual
+property of their respective authors. This project does not reproduce any
+third-party platform's original video or article content.
